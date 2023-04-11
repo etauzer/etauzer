@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Evan
-#### I am a former Math teacher, M.S. Statistics graduate student, and aspiring Data Analyst. 
+#### I am a former Math teacher, M.S. Statistics graduate student, and Data Analyst. 
 
 Skills: R / Python / SQL / Tableau
 
