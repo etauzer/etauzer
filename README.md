@@ -3,7 +3,7 @@
 
 Skills: R / Python / SQL / Tableau / Power BI
 
-🔭 I’m currently working on this page and will have it updated with projects to showcase my work soon
+🔭 I’m currently in the process of building this page and uploading my portfolio, so expect more soon
 
 
 
