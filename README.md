@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Evan
 #### I am a former Math teacher, M.S. Statistics graduate student, and Data Analyst. 
 
-Skills: R / Python / SQL / Tableau
+Skills: R / Python / SQL / Tableau / Power BI
 
 🔭 I’m currently working on this page and adding projects to it to showcase my work
 
