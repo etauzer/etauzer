@@ -1,9 +1,9 @@
-### Hey, my name is Evan
-#### I am a former Math teacher, M.S. Statistics graduate student, and Data Analyst. 
+Hi, I'm Evan
+Quantitative analyst with an M.S. in Statistics and a background spanning educational assessment, data analysis, and applied statistics. I build things that solve real problems — from automated data pipelines to statistical analyses of educational outcomes.
+Currently focused on educational measurement, forecasting, and international development research.
+Skills
+Python | R | SQL | WireGuard/Networking | Tableau | Power BI
 
-Skills: R / Python / SQL / Tableau / Power BI
-
-🔭 I’m currently in the process of building this page and uploading my portfolio, so expect more soon
 
 
 
