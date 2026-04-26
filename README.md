@@ -2,7 +2,7 @@ Hi, I'm Evan
 Quantitative analyst with an M.S. in Statistics and a background spanning educational assessment, data analysis, and applied statistics. I build things that solve real problems — from automated data pipelines to statistical analyses of educational outcomes.
 Currently focused on educational measurement, forecasting, and international development research.
 Skills
-Python | R | SQL | WireGuard/Networking | Tableau | Power BI
+Python | R | SQL | Tableau | Power BI
 
 
 
